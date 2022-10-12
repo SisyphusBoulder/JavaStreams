@@ -1,0 +1,4 @@
+ID, name, price, category, rating, discountPercentage, isAvailable
+001, chicken, 5.01, poultry, B, 10, true
+002, steak, 8.52, beef, C, 8, false
+003, tuna, 3.27, fish, A, 15, true
